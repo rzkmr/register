@@ -1,0 +1,11 @@
+{
+  "description": "rzkmr.is-a.dev",
+  "repo": "https://github.com/rzkmr/register",
+  "owner": {
+    "username": "rzkmr",
+    "email": "me.rzkmr@outlook.com"
+  },
+  "record": {
+    "CNAME": "rzkmr.github.io"
+  }
+}
